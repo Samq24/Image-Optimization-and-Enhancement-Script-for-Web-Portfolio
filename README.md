@@ -29,3 +29,21 @@ I've developed a Python script that addresses the challenge of optimizing and en
 Suppose you have a collection of high-resolution property images in the input directory. By running the script, these images will be resized to the target dimensions, while enhancements like improved contrast, brightness, and saturation will be applied. The resulting images, now significantly smaller in file size, are ready for seamless integration into your web portfolio.
 
 This project showcases my ability to combine image processing techniques with automation to solve practical challenges. It's a valuable addition to my portfolio, demonstrating how I optimize images for web usage without compromising on visual appeal.
+
+
+# Updated Script: Enhanced Image Processing
+
+This script has been updated with the following features:
+
+- **User Interface**: Added a user interface using the `tkinter` library.
+- **Output Name Customization**: You can now input a base name for the output images.
+- **Extended File Format**: Expanded the supported file format to `.jpeg`.
+
+## How to Use
+
+1. Run the script.
+2. Enter a base name for the output images when prompted.
+3. Enhanced images will be saved with the format "base_name_1.jpg", "base_name_2.jpg", etc.
+
+
+
